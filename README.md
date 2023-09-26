@@ -1,10 +1,11 @@
 # VDJKate
 
-This is Telegram bot made for [VDJK Hackathon 2023](https://vdjk.kz/hackaton2023).
+This is my Telegram bot made for [VDJK Hackathon 2023](https://vdjk.kz/hackaton2023).
 
-It's main purpose is to offer information about traditional german dishes and holidays, and about upcoming projects from VDJK.
+It offers information about traditional German dishes and holidays, and about upcoming projects from VDJK.
 
-This repository presents the bot in the version shown at the hackathon.
+This repository showcases the bot in the version presented during the hackathon.
+
 
 ## Installation
 
